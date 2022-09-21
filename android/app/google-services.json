@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "751240135964",
+    "project_id": "bosc-note-app",
+    "storage_bucket": "bosc-note-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751240135964:android:3a6ade16ca63e7911f66d9",
+        "android_client_info": {
+          "package_name": "com.example.bosc_note_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751240135964-i8pd48jlr4rcf8cfhtogqodkm9goco72.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bosc_note_app",
+            "certificate_hash": "33ada1695d1944b27d66124bc327a775e500fa16"
+          }
+        },
+        {
+          "client_id": "751240135964-i71aohe6tdat7lctnpvonp0st2dpa14p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa2WiCXVKAb2jOKq-j7nRXGLcv2Qk9rNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751240135964-i71aohe6tdat7lctnpvonp0st2dpa14p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
